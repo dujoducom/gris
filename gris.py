@@ -2,6 +2,8 @@ from bs4 import BeautifulSoup
 import json
 import requests
 
+#this is dev
+
 class gris(object):
 
 	def __init__(self):
