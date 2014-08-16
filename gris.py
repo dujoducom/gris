@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import json
 import requests
 
-#this is dev
+#this is dev 
 
 class gris(object):
 
