@@ -8,7 +8,7 @@ class gris(object):
 		print ">> init gris"
 
 	def getSimilarImages(self, img_url):
-		print ">> fetrching", img_url
+		print ">> fetrching", img_url, "\n"
 
 		d = self.__getDocument(img_url)
 
